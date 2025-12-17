@@ -1,7 +1,9 @@
 #include "Code.h"
 
 namespace s {
-    // Ξοπεδελενθε ρςΰςθχερκθυ οεπεμεννϋυ
+    // ΓΓ―Γ°Γ¥Γ¤Γ¥Γ«Γ¥Γ­Γ¨Γ¥ Γ±Γ²Γ Γ²Γ¨Γ·Γ¥Γ±ΓªΓ¨Γµ Γ―Γ¥Γ°Γ¥Γ¬Γ¥Γ­Γ­Γ»Γµ
     time_t TimeManager::lastUpdateTime = 0;
     bool TimeManager::initialized = false;
+
 }
+//ΡΡ‚ΠΎ Π½ΠµΡ‡Ρ‚ΠΎ
